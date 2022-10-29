@@ -1,0 +1,11 @@
+pandas
+sklearn
+numpy
+typer
+tox
+pytest
+pyment
+poetry
+tabulate
+pycodestyle
+virtualenv
